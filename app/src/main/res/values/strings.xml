@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MusicDemo</string>
+    <string name="unknown">未知</string>
+    <string name="setting_key_filter_size">filter_size</string>
+    <string name="setting_key_filter_time">filter_time</string>
+    <string name="cancel">取消</string>
+    <string name="tips">温馨提示</string>
+    <string name="play_tips">当前处于移动网络，确定打开移动网络播放开关吗？</string>
+    <string name="play_tips_sure">立即打开</string>
+
+
+    <string name="play_time_start">00:00</string>
+</resources>
